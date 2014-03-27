@@ -1,0 +1,7 @@
+name: git-crypt
+version: 0.0.1
+description: A wercker step to install/initalize git-crypt
+keywords:
+  - git-crypt
+  - git
+  - crypt
